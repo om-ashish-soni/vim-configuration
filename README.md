@@ -19,3 +19,6 @@
   
 ### vim is the one of the best suitable editor for competitive programming in the world.
   
+## FIND in vim : 
+       press ESC or ctrl + C to get out of current mode.
+       press / then the word which you are searching for.

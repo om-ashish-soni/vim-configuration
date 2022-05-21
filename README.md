@@ -22,3 +22,6 @@
 ## FIND in vim : 
        press ESC or ctrl + C to get out of current mode.
        press / then the word which you are searching for.
+
+## For more info : 
+       https://codeforces.com/blog/entry/80759#comment-671016
